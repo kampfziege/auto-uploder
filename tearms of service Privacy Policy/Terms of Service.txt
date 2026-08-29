@@ -1,0 +1,15 @@
+Nutzungsbedingungen (Terms of Service):
+
+    Nutzungsbedingungen für [Name deiner App/deines Bots]
+
+    1. Geltungsbereich
+    Durch die Nutzung von [Name deiner App/deines Bots] akzeptieren Sie diese Nutzungsbedingungen. Wenn Sie diesen Bedingungen nicht zustimmen, nutzen Sie den Dienst bitte nicht.
+
+    2. Beschreibung des Dienstes
+    [Name deiner App/deines Bots] ist eine Anwendung für Discord, die Funktionen wie [kurze Beschreibung, z. B. Moderation, Musik, Unterhaltung] bereitstellt. Der Dienst wird "wie besehen" und ohne Gewährleistung bereitgestellt.
+
+    3. Nutzungspflichten
+    Nutzer verpflichten sich, den Dienst nicht für rechtswidrige Zwecke, zur Verbreitung von Spam, zur Belästigung anderer oder zur Umgehung von Discord-Richtlinien zu missbrauchen. Wir behalten uns das Recht vor, den Zugriff bei Verstößen sofort zu sperren.
+
+    4. Haftungsausschluss
+    Der Entwickler übernimmt keine Haftung für Ausfallzeiten, Datenverlust oder Schäden, die durch die Nutzung des Dienstes entstehen.
